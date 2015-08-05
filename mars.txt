@@ -3,8 +3,7 @@ The two moons may be a problem for Wolfman.
 The Mummy will appreciate the lack of humidity.
 Oh!
 
+<<<<<<< HEAD
 Julia likes to smell Laurence's feet.
 She also steals all the chocolate.
-
-
-Julia smells like poo
+Julia smells like poo.
